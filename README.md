@@ -77,7 +77,7 @@ When water crosses a set depth threshold, Percy’s **“Riptide Mode”** activ
 
 Percy was showcased at two prestigious innovation competitions:
 
-* 🛠 **DesignTrek, NID** – Where we presented the concept and received expert feedback on modular scalability and deployment.
+* 🛠 **DesignTrek, National Institute of Design** – Where we presented the concept and received expert feedback on modular scalability and deployment.
 * 💡 **Kriti, Kothari International School** – Where our project was appreciated for its affordability and real-world impact in disaster-prone zones.
 
 These events helped us gather critical feedback that directly influenced the evolution of Percy’s design and deployment strategy.
