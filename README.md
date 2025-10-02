@@ -1,4 +1,4 @@
-# **PERCY – Amphibious Vehicle Attachment for Flood Emergencies**
+# **PERCY – Amphibious Vehicle Prototype Attachment for Flood Emergencies**
 
 ---
 
